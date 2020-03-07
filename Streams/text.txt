@@ -1,0 +1,5 @@
+Hello, this is a line.
+Well, this is another line.
+100
+2.5
+This is a line fragment, and this is another line fragment.
